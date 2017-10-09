@@ -1,0 +1,151 @@
+h1{
+  color: white;
+}
+h2{
+  color: white;
+}
+h3{
+  color: white;
+}
+
+#yay{
+font-size: 10em;
+animation: space 1.5s forwards ease-out;
+  animation-delay: 3.3s;
+}
+p{
+  font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Germania One', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Alegreya', serif;
+color: white;
+font-size: 1.5em;
+}
+video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+ /*background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat;*/
+  background-size: 1366px 786px;
+  transition: 1s opacity;
+}
+.stopfade {
+   opacity: .5;
+}
+
+
+#heading{
+  padding-top: 10px;
+}
+.inLin{
+  width: 70%;
+  float: right;
+}
+#head{
+  width: 100%;
+  height: 30%;
+}
+
+div#text { width: 0px; height: 2em; white-space: nowrap; overflow: hidden;  }
+
+.spaces{
+  margin: 3%;
+  margin-top: 5%;
+  padding-top: 5px;
+  opacity: 0.5;
+}
+.lala{
+  width: 100%;
+  height: 40px;
+  margin-top: 3px;
+  margin-bottom: 0;
+}
+.backImg{
+  margin-top: 0;
+  background-image: url("http://www.womenintechafrica.com/wp-content/uploads/2015/06/Emily.jpg");
+  opacity: 0.8;
+  /*background-position: center top;
+ background-size: auto 100%;
+ background-repeat:no-repeat;
+}*/
+
+background-size: 100%;
+ width: 100%;
+ height: 30%;
+ }
+ .img-sz{
+   width: 20%;
+   height: 30%;
+   margin-top: 0;
+ }
+
+ span{
+
+       display: inline-block;
+       animation: fall 1s forwards ease-out;
+
+ }
+
+ .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#sec1{
+margin-left: 10%;
+margin-right: 10%;
+margin-bottom: 10%;
+margin-top: 800px;
+background-color: black;
+
+  }
+#sec2{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 10%;
+  margin-top: 100px;
+  background-color: black;
+
+}
+#sec3{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 10%;
+  margin-top: 100px;
+  background-color: black;
+  }
+#sec4{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 10%;
+  margin-top: 100px;
+  background-color: black;
+
+  }
+#sec5{
+
+  }
+.no-spaces{
+padding-top: 0px;
+margin-top: 0px;
+
+}
+.ryt
+{
+  float: right;
+}
+
+ul{
+overflow:hidden;
+}
+li{
+display:inline-block;
+}
